@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'quem é feia?',
-    'Vitória'
+    'Biologia',
+    'qual é o osso dos passaros que é oco e leve?',
+    'Pneumáticos'
 )
 
 criaCartao(
     'Geografia',
-    'Quem é linda?',
-    'manu'
+    'Qual a capital do Brasil?',
+    'Brasília'
 )
 
 criaCartao(
-    'Programação',
-    'quem é o mais bundudo?',
-    'João Rafael'
+    'Matemática',
+    'Quanto é -.+?',
+    '-'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'quem namora comigo?',
-    'conrad gostoso'
+    'Qual seu ator de filme internacional favorito?',
+    'Conrad gostoso'
 )
